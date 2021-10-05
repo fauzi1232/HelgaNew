@@ -944,7 +944,7 @@ fill =`Hai Kak ${pushname}, ${tampilUcapan}
 Silahkan Pilih Untuk Menampilkan Menu
 
 Jika Button Tidak Muncul Ketik .allmenu`
-menu =`H E L G A 右`
+menu =`K Y U R A 右`
 gbutsan = [
 {buttonId:`allmenu`,buttonText:{displayText:'📑SHOW MENU'},type:1},
 {buttonId:`owner`,buttonText:{displayText:'👑OWNER'},type:1},
