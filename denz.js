@@ -89,8 +89,8 @@ ky_ttt = []
 tttawal= ["0️⃣","1️⃣","2️⃣","3️⃣","4️⃣","5️⃣","6️⃣","7️⃣","8️⃣","9️⃣"]
 cmhit = []
 autorespon = false
-playmusic = false
-menusimpel = false
+playmusic = true
+menusimpel = true
 baterai = {
 battery: "" || "Tidak Terdeteksi",
 isCharge: "" || false
@@ -102,8 +102,8 @@ alasanafk = 'Nothing'
 NamaBot = settings.NamaBot
 NomorOwner = settings.NomorOwner
 NamaOwner = settings.NamaOwner
-multi = true
-nopref = false
+multi = false
+nopref = true
 
 // APIKEY
 HunterApi = settings.HunterApi
